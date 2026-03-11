@@ -21,3 +21,8 @@ Advancing in Electrical Engineering and Automation while channeling creativity t
   <img src="https://github-readme-stats.vercel.app/api?username=fikrizkia&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrizkia&theme=tokyonight" alt="GitHub Streak" />
 </p>
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/Fikri Rizkia Prisyabil" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:abangrizkie7@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
