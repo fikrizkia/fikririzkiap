@@ -3,6 +3,11 @@
 </p>
 
 # Hello, I'm Fikri ! 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello,+I'm+Fikri!+👋;Electrical+Engineer+Student;Automation+Enthusiast;Graphic+Designer" alt="Typing SVG" />
+  </a>
+</p>
 
 ## About me
 Advancing in Electrical Engineering and Automation while channeling creativity through graphic design, photography, and impactful writing.
