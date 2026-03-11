@@ -19,7 +19,5 @@ Advancing in Electrical Engineering and Automation while channeling creativity t
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fikrizkia&show_icons=true&theme=tokyonight" height="170" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrizkia&theme=tokyonight" alt="GitHub Streak" />
 </p>
