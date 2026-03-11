@@ -3,6 +3,8 @@
 </p>
 
 # Hello, I'm Fikri ! 👋
+
+## About me
 Advancing in Electrical Engineering and Automation while channeling creativity through graphic design, photography, and impactful writing.
 ---
 # Tech Stack & Tools
