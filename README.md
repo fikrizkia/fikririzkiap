@@ -41,3 +41,7 @@
 <a href="https://www.linkedin.com/in/fikri-rizkia-prisyabil-a26112269/" target="blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+<p align="center">
+  <img src="Footer.png" width="100%" />
+</p>
