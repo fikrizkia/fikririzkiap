@@ -33,7 +33,7 @@
 | Category | Description |
 | :--- | :--- |
 | 🧠 **Learning Archives** | Detailed logs and documentation of my journey through **Electrical Engineering**, **Industrial Automation**, and **Cybersecurity**. |
-| ⚙️ **Simulation Lab** | A curated collection of technical simulations—designed to serve as a practical reference and blueprint for your own projects. |
+| ⚙️ **Simulation Lab** | A curated collection of technical simulations & designed to serve as a practical reference and blueprint for your own projects. |
 | 🎨 **Design Gallery** | A creative showcase of my visual playground, featuring graphic designs and digital content created with precision and heart. |
 
 ---
